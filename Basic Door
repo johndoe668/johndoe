@@ -1,0 +1,6 @@
+Scipt.parent.mousebutton1click:connect(function()
+script.parent.mousebutton1click = true do
+  game.GetService("ReplicatedStorage").Remotes.PushUp
+  else
+  script.parent.mousebutton1click = false
+  end
